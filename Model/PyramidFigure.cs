@@ -27,7 +27,7 @@
         /// Константа с описанием максимальной
         /// высоты пирамиды.
         /// </summary>
-        public const int maxHeigth = 190;
+        public const int maxHeigth = 210;
 
         /// <summary>
         /// Конструктор класса PyramidFigure.
