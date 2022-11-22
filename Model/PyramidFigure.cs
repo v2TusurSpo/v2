@@ -32,7 +32,8 @@
         /// <summary>
         /// Конструктор класса PyramidFigure.
         /// </summary>
-        /// <param name="baseArea">Площадь основания пирамиды.</param>
+        /// <param name="baseArea">Площадь основания
+        /// пирамиды.</param>
         /// <param name="heigth">Высота пирамиды.</param>
         public PyramidFigure(double baseArea, double heigth)
         {
