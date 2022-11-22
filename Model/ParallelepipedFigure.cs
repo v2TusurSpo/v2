@@ -14,7 +14,7 @@
         /// <summary>
         /// Константа с описанием максимальной стороны параллелепипеда.
         /// </summary>
-        public const int maxSide = 170;
+        public const int maxSide = 180;
 
         /// <summary>
         /// Конструктор класса ParallelepipedFigure.
