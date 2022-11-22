@@ -15,7 +15,7 @@ namespace Model
         /// <summary>
         /// Константа с описанием максимального радиуса шара.
         /// </summary>
-        public const int maxRadius = 160;
+        public const int maxRadius = 130;
 
         /// <summary>
         /// Конструктор класса BallFigure.
