@@ -15,7 +15,7 @@
         /// Константа с описанием максимальной 
         /// площади основания пирамиды.
         /// </summary>
-        public const int maxBaseArea = 180;
+        public const int maxBaseArea = 200;
 
         /// <summary>
         /// Константа с описанием минимальной 
@@ -27,7 +27,7 @@
         /// Константа с описанием максимальной
         /// высоты пирамиды.
         /// </summary>
-        public const int maxHeigth = 190;
+        public const int maxHeigth = 210;
 
         /// <summary>
         /// Конструктор класса PyramidFigure.
