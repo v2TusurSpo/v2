@@ -15,7 +15,7 @@
         /// Константа с описанием максимальной 
         /// площади основания пирамиды.
         /// </summary>
-        public const int maxBaseArea = 180;
+        public const int maxBaseArea = 200;
 
         /// <summary>
         /// Константа с описанием минимальной 
